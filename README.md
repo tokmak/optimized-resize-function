@@ -14,8 +14,6 @@ This isn’t exactly throttling, but it’s close. Basically debouncing will fir
 
 
 
-
-
 // usage:
 
 $(window).smartresize(function(){
