@@ -1,4 +1,4 @@
-optimized-resize-function
+Smartresize jQuery Plugin
 =========================
 
 From Paul Irish: http://www.paulirish.com/2009/throttled-smartresize-jquery-event-handler/
