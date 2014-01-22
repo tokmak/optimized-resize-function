@@ -6,16 +6,16 @@ If you’ve ever attached an event handler to the window’s resize event, you h
 This isn’t exactly throttling, but it’s close. Basically debouncing will fire your function after a threshold of time (e.g. 100ms) has elapsed since the last time it’s tried to fire. Throttling would withhold subsequent firings, but debouncing waits for the last one and runs that.
 
 
-# Usage:
+### Usage:
 
 ```javascript
 $(window).smartresize(function(){
   // code that takes it easy...
 });
-
+```
 
 
 ###Credits: 
 
 
-Article by [Paul Irish] (http://www.paulirish.com/2009/throttled-smartresize-jquery-event-handler/ )
+[Article by Paul Irish] (http://www.paulirish.com/2009/throttled-smartresize-jquery-event-handler/ )
